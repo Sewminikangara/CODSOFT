@@ -6,9 +6,9 @@ public class NumberGame {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
-        int minRange = 1; // Minimum value of the range
-        int maxRange = 100; // Maximum value of the range
-        int attemptsLimit = 5; // Limit of attempts
+        int minRange = 1; 
+        int maxRange = 100; 
+        int attemptsLimit = 5; 
         
         int score = 0;
         boolean playAgain = true;
